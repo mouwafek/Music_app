@@ -1,4 +1,4 @@
-# m_spotify_clone
+# Music Mobile App
 
 A custom clone for the famous music Spotify mobile application.
 
